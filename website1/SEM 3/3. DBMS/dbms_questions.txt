@@ -1,0 +1,96 @@
+What are the different components of database. Explain.
+Explain different services provided by DBMS Over conventional file system.
+Discuss different applications Of DBMS.
+What is data model. Explain record based logical model,
+What is RDBMS? Explain different relational database components.
+
+what is foreign key? Explain foreign key constrain.
+What are the different set operations? Explain cross product withsxarnple.
+What is DML? Discuss different DML statements.
+What is aggregate function? Describe any five useful aggregate functions.
+What is union? Describe union operator with suitable example.
+
+What is data modelling? Explain basic styles of data models.
+What is entity? Differentiate between strong and weak entity.
+What is relationship? Explain different types of relationships.
+What is keys? Explain different keys for relationship set.
+What is ER modelling? Explain steps in E-R Modelling.
+
+
+What is decomposition or small schema?
+What is functional dependency? Explain sub type of it.
+What is normalization? Explain the need of normalization.
+What is transaction? Explain the properties of transaction.
+What is schedule? Explain recoverable schedules.
+
+
+Explain what is data and information with example?
+what are joins? List down the types of joins.
+
+Consider 'Courier Services System'. In which Administrator is person who handles
+administrations of system. Administrator is person who is actually owner ofCourier
+Services shop, Client is person who courier the documents or things. Workers are
+person who works in courier office to handle enquiry, dispatching process ofcourier's
+etc. Payment _ Mode option is available for Client. Client can do Payments by using
+different Payment modes.
+
+Draw ER diagram for Courier Service System.
+Explain transaction states by giving an example.
+what is Normalization? Why we need normalization?
+
+What is Database? What are three advantages of DBMS?
+What is a data model? Explain any two types ofdata models.
+What is a Functional dependency?
+
+Explain the concept of Super Key, Candidate Key and Primary Key with examples.
+Determine functional dependency in Mark sheet table given below:
+
+Roll No.
+101
+101
+102
+103
+
+
+Subject Code
+Clio
+C112
+C122
+C123
+
+
+Marks
+82
+45
+65
+70
+
+Explain structure of DBMS.
+What is a week entity and strong entity by giving an example each?
+Explain ACID properties with the example
+A relation NADDR is defined as follows,
+NADDR = (name, street, city, state. postal_code)
+
+
+where name is unique, and for any given postal code, there is just one city and state
+
+    i) Give a set ofFDs for this relation.
+    ii) What are the candidate keys?
+    iii) 1sNADDRin3NF or2NF?Explainwhy?
+    iv) If NADDR is not in 3NF. normalize it into 3NF relations.
+
+What is SQL? Also List down the DDL and DML commands.
+What are different types of user that play different roles in a database environment?
+What is an attribute? Explain any two types of attributes.
+Explain two phase locking protocol?
+What is De-Normalization?
+
+
+
+
+
+
+
+
+
+
